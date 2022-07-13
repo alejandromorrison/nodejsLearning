@@ -1,0 +1,15 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "this is the assignment 3 of the nodejs course i been doing in udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alejandro morrison",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
